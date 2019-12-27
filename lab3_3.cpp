@@ -8,7 +8,6 @@ int main(){
     while(x < 70){
         y = y + (1/x);
         x++;
-        
     }
     cout << y;
     return 0;
