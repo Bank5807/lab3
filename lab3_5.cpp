@@ -12,7 +12,8 @@ int main()
         cin >> text2;
         cout << "Enter N: ";
         cin >> N;
-        while(count < N){
+        while(count < N)
+        {
             if(count%2 == 0){
                 cout << text1 << " ";
             }else{
